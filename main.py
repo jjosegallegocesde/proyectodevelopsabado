@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from Lichi import Lichi;
 
 
@@ -6,7 +5,6 @@ object = Lichi();
 
 object.nombre = "Lechias"
 print(object.nombre);
-=======
 from Alquejenje import Alquejenje
 
 objeto=Alquejenje()
@@ -22,4 +20,3 @@ print(objeto.precio)
 
 objeto.vitaminaAportada=5000
 print(objeto.vitaminaAportada)
->>>>>>> 02bae8c7545bbe05b1e8faa1ed9930cc3bc6f82f
