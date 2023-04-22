@@ -1,6 +1,5 @@
 from Lichi import Lichi;
 
-
 object = Lichi();
 
 object.nombre = "Lechias"
@@ -20,3 +19,7 @@ print(objeto.precio)
 
 objeto.vitaminaAportada=5000
 print(objeto.vitaminaAportada)
+
+
+
+print("Hola soy Andrés Felipe")
