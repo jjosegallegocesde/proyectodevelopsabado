@@ -1,8 +1,10 @@
-class Kiwi():
-    def public __init__(self):
-        self.nombre = None
-        self.vitamina = None
-        self.cantidad = None
-
+class Kiwi: 
+    
+    def __init__(self):
+        self.nombre=None
+        self.cantidad=None
+        self.precio=None
+        self.vitaminaAportada=None
+        
     def agregarFruta(self):
-        print("se pica y se macera con azucar")
+        print("Se pica y se macera con azucar morena")
