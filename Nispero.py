@@ -6,4 +6,4 @@ class Nispero:
         self.vitaminaAportada = None
 
     def agregarFruta(self): #todo metodo debe tener self
-        print('se pica y se macera con azucar morena')
+        print('se pica y se macera con azucar morena') 
