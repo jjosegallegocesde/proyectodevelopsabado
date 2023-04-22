@@ -1,11 +1,11 @@
 from pitahaya import pitahaya
 
 objeto=pitahaya()
-objeto.nombre="pitahaya europea" #SET
+objeto.nombre="Nombre: pitahaya europea" #SET
 print(objeto.nombre) #GET
-objeto.cantidad="200 pitahayas"
+objeto.cantidad="Cantidad: 200 pitahayas"
 print(objeto.cantidad)
-objeto.precio="100.000"
+objeto.precio="Precio: 100.000"
 print(objeto.precio)
 objeto.vitaminaAportada
-print("vitanina c")
+print("vitanina: c")
