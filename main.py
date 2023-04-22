@@ -25,3 +25,6 @@ print(objeto.precio)
 
 objeto.vitaminaAportada=5000
 print(objeto.vitaminaAportada)
+
+
+print("hola")
